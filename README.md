@@ -1,8 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7aCQi2ZBq46pjkek/giphy.gif" width="300" />
-  
-  
+  <img src="https://media.giphy.com/media/3o7aCQi2ZBq46pjkek/giphy.gif" width="300" />  
   <div id="badges">
   <a href="https://www.linkedin.com/in/juan-pedro-tovar-40ab8a13a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,13 +8,10 @@
 </div>
 
 
-  <div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sundancer92&style=flat-square&color=blue" alt=""/>
 </div>
-    <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
   ## About me:
   
   ---
@@ -33,3 +28,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 </div>
+  
+  ---
+
+### :fire: My Stats :
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundancer92&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
